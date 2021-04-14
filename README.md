@@ -12,4 +12,6 @@ Author: Lin Ho Yin and Lo Cheuk Ian
 
 5.The test_driven.py file are the data used while using test driven cycle.
 
+6.The Test Cases.xlsx contain all of the test cases and Test driven development used test cases.
+
 Thanks for your attention and have a good day.
