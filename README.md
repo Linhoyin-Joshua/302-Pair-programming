@@ -1,6 +1,6 @@
 # 302-Pair-programming
 
-Author: Lin Ho Yin and Lo Cheuk Ian
+Author: Lin Ho Yin
 
 1.Calculator.py is the main program. 
 
